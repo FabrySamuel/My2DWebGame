@@ -1,2 +1,0 @@
-textak
-ja vim very cool :O
