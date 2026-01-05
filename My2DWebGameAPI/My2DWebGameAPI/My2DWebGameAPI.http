@@ -1,0 +1,6 @@
+@My2DWebGameAPI_HostAddress = http://localhost:5129
+
+GET {{My2DWebGameAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
